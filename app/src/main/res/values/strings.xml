@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoviewDB</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="date">Date</string>
+    <string name="some_detail">Some Detail</string>
+    <string name="title">Title</string>
+</resources>
